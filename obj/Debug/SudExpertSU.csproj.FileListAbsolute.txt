@@ -1,0 +1,13 @@
+D:\Отчеты\SudExpertSU\SudExpertSU\bin\Debug\SudExpertSU.exe.config
+D:\Отчеты\SudExpertSU\SudExpertSU\bin\Debug\SudExpertSU.exe
+D:\Отчеты\SudExpertSU\SudExpertSU\bin\Debug\SudExpertSU.pdb
+D:\Отчеты\SudExpertSU\SudExpertSU\obj\Debug\SudExpertSU.Components.TableData.resources
+D:\Отчеты\SudExpertSU\SudExpertSU\obj\Debug\SudExpertSU.Properties.Resources.resources
+D:\Отчеты\SudExpertSU\SudExpertSU\obj\Debug\SudExpertSU.csproj.GenerateResource.cache
+D:\Отчеты\SudExpertSU\SudExpertSU\obj\Debug\SudExpertSU.csproj.CoreCompileInputs.cache
+D:\Отчеты\SudExpertSU\SudExpertSU\obj\Debug\SudExpertSU.exe
+D:\Отчеты\SudExpertSU\SudExpertSU\obj\Debug\SudExpertSU.pdb
+D:\Отчеты\SudExpertSU\SudExpertSU\obj\Debug\SudExpertSU.Forms.ManagmentForm.resources
+D:\Отчеты\SudExpertSU\SudExpertSU\obj\Debug\SudExpertSU.csprojAssemblyReference.cache
+D:\Отчеты\SudExpertSU\SudExpertSU\obj\Debug\SudExpertSU.Models.Components.GosOrgComponent.resources
+D:\Отчеты\SudExpertSU\SudExpertSU\obj\Debug\SudExpertSU.LoginForm.resources
